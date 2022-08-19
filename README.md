@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Rojas</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 
-- 🔭 I’m currently part of the MLH Fellowship program in the Production Engineering track. [http://redsportfolio.duckdns.org:5000/aboutSebas](http://redsportfolio.duckdns.org:5000/aboutSebas)
+- 🔭 Recently graduated from the MLH Fellowship program, Production Engineering track. 
 
 - 🌱 I’m currently learning **bash and scripting**
 
