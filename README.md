@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian Rojas</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 
-- 🔭 Recently graduated from the MLH Fellowship program, Production Engineering track. 
+- 🔭 Former MLH Production Engineer Fellow. 
 
-- 🌱 I’m currently learning **bash and scripting**
+- 🌱 I’m currently learning **Game development with Unity and Unreal Engine**
 
 - 📫 How to reach me **rssebas08@outlook.com**
 
