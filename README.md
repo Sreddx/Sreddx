@@ -3,7 +3,7 @@
 
 - 🔭 Former MLH Production Engineer Fellow. 
 
-- 🌱 I’m currently learning **Game development with Unity and Unreal Engine**
+- 🌱 I’m currently learning **AI and machine learning**
 
 - 📫 How to reach me **rssebas08@outlook.com**
 
