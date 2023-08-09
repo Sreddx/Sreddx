@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sebastian Rojas</h1>
-<h3 align="center">A passionate fullstack developer from Mexico</h3>
+<h3 align="center">A passionate software engineer from Mexico</h3>
+
+- 🦾 Currently working as a Software Engineer @iNbest
 
 - 🔭 Former MLH Production Engineer Fellow. 
 
-- 🌱 I’m currently learning **AI and machine learning**
+- 🌱 I’m currently learning about **Cloud infrastructure in AWS, GCP and Azure**
 
 - 📫 How to reach me **rssebas08@outlook.com**
 
