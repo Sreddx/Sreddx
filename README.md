@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Rojas</h1>
 <h3 align="center">A passionate software engineer from Mexico</h3>
 
-- 🦾 Currently working as a Software Engineer @iNbest
+- 🦾 Currently working as a Software Engineer Team leader @iNbest
 
 - 🔭 Former MLH Production Engineer Fellow. 
 
