@@ -98,7 +98,7 @@ I lead engineering and build the unglamorous plumbing enterprises depend on — 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sreddx&hide_border=true&background=161616&stroke=B8F436&ring=F2BE22&fire=F2BE22&currStreakLabel=B8F436&sideLabels=ECE8DF&dates=ECE8DF&currStreakNum=ECE8DF&sideNums=ECE8DF" alt="streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sreddx&hide_border=true&background=161616&stroke=B8F436&ring=F2BE22&fire=F2BE22&currStreakLabel=B8F436&sideLabels=ECE8DF&dates=ECE8DF&currStreakNum=ECE8DF&sideNums=ECE8DF" alt="streak" />
 </p>
 
 ---
