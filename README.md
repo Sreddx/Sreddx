@@ -1,5 +1,5 @@
 <h1 align="center">
-  <code>SEBASTIAN — ROJAS</code>
+  <code>SEBASTIAN — ROJAS SALAZAR</code>
 </h1>
 
 <p align="center">
@@ -112,8 +112,3 @@ I lead engineering and build the unglamorous plumbing enterprises depend on — 
 🎧 **Sound** — electronic everything, live for EDM festivals (3 years running at EDC México 🇲🇽). Elderbrook on loop · deep house · progressive house · melodic techno.
 
 ---
-
-<p align="center">
-  <i>Built with a deconstructivist one-pager — no frameworks, just craft.</i><br>
-  <a href="https://sreddx.github.io/Rojas-web/"><b>→ sreddx.github.io/Rojas-web</b></a>
-</p>
