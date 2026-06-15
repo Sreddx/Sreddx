@@ -1,22 +1,119 @@
-<h1 align="center">Hi 👋, I'm Sebastian Rojas</h1>
-<h3 align="center">A passionate software engineer from Mexico</h3>
+<h1 align="center">
+  <code>SEBASTIAN — ROJAS</code>
+</h1>
 
-- 🦾 Currently working as Head of Software Factory @iNbest
-
-- 🔭 Former MLH Production Engineer Fellow. 
-
-- 🌱 I’m currently learning about **Cloud infrastructure in AWS, GCP and Azure**
-
-- 📫 How to reach me **rssebas08@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sebastian-rojas-sal/](https://www.linkedin.com/in/sebastian-rojas-sal/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebastian-rojas-sal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-rojas-sal" height="30" width="40" /></a>
+<p align="center">
+  <b>Engineering Manager @ Caylent</b> · Software Delivery Engineer · Mexico 🇲🇽
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>I turn enterprise integration chaos into systems that just run.</i>
+</p>
 
+<p align="center">
+  <a href="https://sreddx.github.io/Rojas-web/">
+    <img src="https://img.shields.io/badge/▶_VISIT_MY_SITE-sreddx.github.io%2FRojas--web-B8F436?style=for-the-badge&labelColor=161616" alt="Live site" />
+  </a>
+  <a href="https://linkedin.com/in/sebastian-rojas-sal">
+    <img src="https://img.shields.io/badge/LinkedIn-sebastian--rojas--sal-F2BE22?style=for-the-badge&labelColor=161616&logo=linkedin&logoColor=F2BE22" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rssebas08@outlook.com">
+    <img src="https://img.shields.io/badge/Email-rssebas08-ECE8DF?style=for-the-badge&labelColor=161616&logo=microsoftoutlook&logoColor=ECE8DF" alt="Email" />
+  </a>
+</p>
 
+---
+
+### `>` whoami
+
+```ts
+const sebastian = {
+  role:      "Engineering Manager @ Caylent",
+  background:"ex-Head of Software Factory @ iNbest",
+  focus:     ["cloud-native architecture", "enterprise B2B integration", "AI-assisted systems"],
+  clouds:    ["AWS", "Azure", "GCP"],
+  certified: ["AWS DevOps Competency Partner", "ISO 20000", "ISO 27001"],
+  mantra:    "domain immersion → trusted advisor → product-engineering mindset",
+};
+```
+
+I lead engineering and build the unglamorous plumbing enterprises depend on — **EDI 214/810 freight & invoicing flows, SAP CPI, AS2/SFTP** — plus the modern systems on top: **serverless image-classification APIs, multi-carrier insurance quoting platforms, and AI-assisted incident detection**. Not just AI hype — production software that survives audits and real traffic.
+
+---
+
+### `>` featured
+
+<p align="center">
+  <a href="https://github.com/Sreddx/Rojas-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreddx&repo=Rojas-web&title_color=B8F436&icon_color=F2BE22&text_color=ECE8DF&bg_color=161616&border_color=B8F436" alt="Rojas-web" />
+  </a>
+</p>
+
+> **[Rojas-web](https://sreddx.github.io/Rojas-web/)** — my bilingual (EN/ES) personal site. A deconstructivist one-pager in **Astro**, zero UI frameworks, hand-ported vanilla JS, fully `prefers-reduced-motion` aware, shipped to GitHub Pages. Just craft.
+
+---
+
+### `>` what I work with
+
+> Grouped exactly like the skills on [my site](https://sreddx.github.io/Rojas-web/) 🟢🟡
+
+**☁️ Cloud**
+![AWS](https://img.shields.io/badge/AWS-161616?style=flat-square&logo=amazonwebservices&logoColor=B8F436)
+![Azure](https://img.shields.io/badge/Azure-161616?style=flat-square&logo=microsoftazure&logoColor=B8F436)
+![GCP](https://img.shields.io/badge/GCP-161616?style=flat-square&logo=googlecloud&logoColor=B8F436)
+
+**⌨️ Languages**
+![Python](https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=F2BE22)
+![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=F2BE22)
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=flat-square&logo=javascript&logoColor=F2BE22)
+![C#](https://img.shields.io/badge/C%23-161616?style=flat-square&logo=csharp&logoColor=F2BE22)
+![SQL](https://img.shields.io/badge/SQL-161616?style=flat-square&logo=postgresql&logoColor=F2BE22)
+
+**🧩 Frameworks**
+![React](https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=ECE8DF)
+![React Native](https://img.shields.io/badge/React_Native-161616?style=flat-square&logo=react&logoColor=ECE8DF)
+![Astro](https://img.shields.io/badge/Astro-161616?style=flat-square&logo=astro&logoColor=ECE8DF)
+![Node.js](https://img.shields.io/badge/Node.js-161616?style=flat-square&logo=nodedotjs&logoColor=ECE8DF)
+![Flask](https://img.shields.io/badge/Flask-161616?style=flat-square&logo=flask&logoColor=ECE8DF)
+
+**🗄️ Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=8FC527)
+![MongoDB](https://img.shields.io/badge/MongoDB-161616?style=flat-square&logo=mongodb&logoColor=8FC527)
+![Redis](https://img.shields.io/badge/Redis-161616?style=flat-square&logo=redis&logoColor=8FC527)
+![SQLite](https://img.shields.io/badge/SQLite-161616?style=flat-square&logo=sqlite&logoColor=8FC527)
+
+**🔧 DevOps & Integration**
+![Docker](https://img.shields.io/badge/Docker-161616?style=flat-square&logo=docker&logoColor=F2BE22)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161616?style=flat-square&logo=githubactions&logoColor=F2BE22)
+![SAP CPI](https://img.shields.io/badge/SAP_CPI-161616?style=flat-square&logo=sap&logoColor=F2BE22)
+![EDI · AS2 · SFTP](https://img.shields.io/badge/EDI_·_AS2_·_SFTP-161616?style=flat-square&logoColor=F2BE22)
+
+---
+
+### `>` github stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreddx&show_icons=true&hide_border=true&title_color=B8F436&icon_color=F2BE22&text_color=ECE8DF&bg_color=161616" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreddx&layout=compact&hide_border=true&title_color=B8F436&text_color=ECE8DF&bg_color=161616" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sreddx&hide_border=true&background=161616&stroke=B8F436&ring=F2BE22&fire=F2BE22&currStreakLabel=B8F436&sideLabels=ECE8DF&dates=ECE8DF&currStreakNum=ECE8DF&sideNums=ECE8DF" alt="streak" />
+</p>
+
+---
+
+### `>` beyond the code
+
+🎮 **Games** — all genres, but action & RPGs win. Top 3: *Expedition 33*, *Sekiro*, *Risk of Rain 2*. Always down for party games & fighters. PC + Xbox.
+
+🎬 **Screen** — sci-fi & futuristic, plus oddballs like *Swiss Army Man*. Series: *Beef*, *Altered Carbon* — but anime first: *Re:Zero* favorite, *Attack on Titan* on repeat.
+
+🎧 **Sound** — electronic everything, live for EDM festivals (3 years running at EDC México 🇲🇽). Elderbrook on loop · deep house · progressive house · melodic techno.
+
+---
+
+<p align="center">
+  <i>Built with a deconstructivist one-pager — no frameworks, just craft.</i><br>
+  <a href="https://sreddx.github.io/Rojas-web/"><b>→ sreddx.github.io/Rojas-web</b></a>
+</p>
