@@ -75,8 +75,6 @@ I lead engineering and build the unglamorous plumbing enterprises depend on — 
 
 ### `>` what I work with
 
-> Grouped exactly like the skills on [my site](https://sreddx.github.io/Rojas-web/) 🟢🟡
-
 **☁️ Cloud**
 ![AWS](https://img.shields.io/badge/AWS-161616?style=flat-square&logo=amazonwebservices&logoColor=B8F436)
 ![Azure](https://img.shields.io/badge/Azure-161616?style=flat-square&logo=microsoftazure&logoColor=B8F436)
