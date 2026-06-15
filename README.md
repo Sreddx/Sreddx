@@ -113,7 +113,7 @@ I lead engineering and build the unglamorous plumbing enterprises depend on — 
 ### `>` github stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreddx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B8F436&icon_color=F2BE22&text_color=ECE8DF&bg_color=161616" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreddx&show_icons=true&hide_border=true&title_color=B8F436&icon_color=F2BE22&text_color=ECE8DF&bg_color=161616" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreddx&layout=compact&hide_border=true&title_color=B8F436&text_color=ECE8DF&bg_color=161616" alt="top langs" />
 </p>
 
