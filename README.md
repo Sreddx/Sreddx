@@ -30,14 +30,34 @@
 const sebastian = {
   role:      "Engineering Manager @ Caylent",
   background:"ex-Head of Software Factory @ iNbest",
-  focus:     ["cloud-native architecture", "enterprise B2B integration", "AI-assisted systems"],
+  focus:     ["GenAI & multi-agent systems", "cloud-native architecture", "enterprise B2B integration"],
   clouds:    ["AWS", "Azure", "GCP"],
-  certified: ["AWS DevOps Competency Partner", "ISO 20000", "ISO 27001"],
+  certified: [
+    "AWS DevOps Engineer – Professional",
+    "AWS Developer – Associate",
+    "AWS Cloud Practitioner",
+    "Google Cloud Professional Developer",
+    "Azure Developer Associate",
+    "ITIL V4 Foundation",
+    "Anthropic Claude Certified Architect",
+  ],
   mantra:    "domain immersion → trusted advisor → product-engineering mindset",
 };
 ```
 
 I lead engineering and build the unglamorous plumbing enterprises depend on — **EDI 214/810 freight & invoicing flows, SAP CPI, AS2/SFTP** — plus the modern systems on top: **serverless image-classification APIs, multi-carrier insurance quoting platforms, and AI-assisted incident detection**. Not just AI hype — production software that survives audits and real traffic.
+
+---
+
+### `>` certifications
+
+![AWS DevOps Pro](https://img.shields.io/badge/AWS_Certified-DevOps_Engineer_Professional-B8F436?style=flat-square&labelColor=161616&logo=amazonwebservices&logoColor=B8F436)
+![AWS Developer](https://img.shields.io/badge/AWS_Certified-Developer_Associate-B8F436?style=flat-square&labelColor=161616&logo=amazonwebservices&logoColor=B8F436)
+![AWS CCP](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-B8F436?style=flat-square&labelColor=161616&logo=amazonwebservices&logoColor=B8F436)
+![GCP](https://img.shields.io/badge/Google_Cloud-Professional_Developer-F2BE22?style=flat-square&labelColor=161616&logo=googlecloud&logoColor=F2BE22)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Developer_Associate-F2BE22?style=flat-square&labelColor=161616&logo=microsoftazure&logoColor=F2BE22)
+![ITIL](https://img.shields.io/badge/ITIL-V4_Foundation-ECE8DF?style=flat-square&labelColor=161616&logo=axelos&logoColor=ECE8DF)
+![Claude](https://img.shields.io/badge/Anthropic-Claude_Certified_Architect-ECE8DF?style=flat-square&labelColor=161616&logo=anthropic&logoColor=ECE8DF)
 
 ---
 
@@ -93,7 +113,7 @@ I lead engineering and build the unglamorous plumbing enterprises depend on — 
 ### `>` github stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreddx&show_icons=true&hide_border=true&title_color=B8F436&icon_color=F2BE22&text_color=ECE8DF&bg_color=161616" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreddx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B8F436&icon_color=F2BE22&text_color=ECE8DF&bg_color=161616" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreddx&layout=compact&hide_border=true&title_color=B8F436&text_color=ECE8DF&bg_color=161616" alt="top langs" />
 </p>
 
